@@ -1,0 +1,4 @@
+,index,Accuracy
+0,SummaryRandomForest,82.6816
+1,CNN,92.8492
+2,LSTM-FCN,97.6536
